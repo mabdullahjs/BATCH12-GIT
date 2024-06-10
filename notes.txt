@@ -1,0 +1,17 @@
+1- git ko download krna ha.
+2- Github ka account banaya ha.
+3- git bash ko open krka do command chalai hain.
+
+git config --global user.name "your_github_username"
+git config --global user.email "your_github_email"
+
+4- maina github pa aik repository (folder) banai.
+5- repo ma sa link copy krka jaha folder banana tha waha pa cmd khola or 
+
+git clone "repo link" 
+
+6- folder ka undar index.html ki file banaye ya jo bhi kaam kra hoo. visual studio code ka undar hi aik github ka icon haa waha jaaka relavent commit message likhna haa or usko commit krdena ha.
+
+7- 3 dot pa click krka push pa click krna ha. browser ma github login hona laazmi ha baaki ya khud connect krdaiga.
+
+8- jo bhi code push hona ka baad ma edit kronga usko dobara sa commit and push krdonga to wo code bhi update hojayega github pa.
